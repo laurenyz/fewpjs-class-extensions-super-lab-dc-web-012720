@@ -16,7 +16,7 @@ class Deciduous {
   
   static definition() {
     super.definition()
-    ""
+    "Deciduous trees shed their leaves annually."
   }
 }
 
